@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Covid-19
+          Covid-19 (Coronavirus) 
         </a>
       </header>
     </div>
